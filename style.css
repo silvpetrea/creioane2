@@ -1,0 +1,164 @@
+@media screen and (max-width: 30em) , screen and (max-height: 24em) {
+  html {
+    font-size: 1em;
+  }
+  
+  .option1 {
+    transform: rotate(-5deg);
+  }
+
+  .option2 {
+    transform: rotate(5deg);
+  }
+  
+  .option__place-name {
+    font-size: 0.8em;
+  }
+  
+  .separator {
+    padding: 5% 0;
+  }
+}
+
+@media screen and (min-width: 30em) and (min-height: 24em) {
+  html {
+    font-size: 1.2em;
+  }
+  
+  .option1 {
+    transform: translateX(10px) rotate(-5deg);
+  }
+
+  .option2 {
+    transform: translateX(-10px) rotate(5deg);
+  }
+  
+  .separator {
+    padding: 10% 0;
+  }
+}
+
+@media screen and (min-width: 50em) and (min-height: 40em) {
+  html {
+    font-size: 1.6em;
+  }
+  
+  .option1 {
+    transform: translateX(-15px) rotate(-5deg);
+  }
+
+  .option2 {
+    transform: translateX(15px) rotate(5deg);
+  }
+  
+  .separator {
+    padding: 20% 0;
+  }
+}
+
+html {
+  background-color: rgba(144,19,248,0.5);
+  font-family: sans-serif;
+}
+
+.content {
+  background-color: white;
+  border-radius: 30px;
+  box-shadow: 0 10px 0 0 rgba(144,19,248,0.5);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-content: stretch;
+  height: 90vh;
+  max-height: 30em;
+  margin: 1em auto;
+  max-width: 800px;
+  width: 90%;
+}
+
+.header {
+  background-color: rgba(144,19,248,0.1);
+  border-radius: 30px 30px 0 0;
+  flex: 0 1 15%;
+  padding: 1em 2em;
+}
+
+.header__query {
+  text-align: center;
+}
+
+.options {
+  background-color: rgba(144,19,248,0.1);
+  display: flex;
+  flex: 0 2 65%;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.option {
+  background-color: white;
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.5);
+  flex: 0 1 40%;
+  margin: 0.5em;
+  padding: 0.5em 0.5em 0 0.5em;
+  text-align: center;
+}
+
+.option__media {
+  position: relative;
+  height: 65%;
+}
+
+.option__image {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.option__place-name {
+  text-align: center;
+}
+
+.separator {
+  flex: 0 1 15%;
+}
+
+.separator__pencil {
+  text-align: center;
+}
+
+.footer {
+  background-color: rgba(144,19,248,0.1);
+  border-radius: 0 0 30px 30px;
+  flex: 0 1 10%;
+  padding: 5%;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.form__text-input {
+  font-size: 1em;
+  text-align: center;
+  width: 6em;
+}
+
+.form__submit {
+  font-size: 1em;
+  color: white;
+  background-color: rgba(189,16,224,1.0);
+  border: none;
+  border-radius: 0.625em;
+  margin-left: 1em;
+  padding: 0.625em 1em;
+}

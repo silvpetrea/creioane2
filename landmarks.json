@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Cetatea de Scaun a Sucevei",
+        "latitude": 47.644322,
+        "longitude": 26.272224,
+        "wikipedia": "https://ro.wikipedia.org/wiki/Cetatea_de_Scaun_a_Sucevei",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Suceava_fortress_%28by_Pudelek%29.jpg/350px-Suceava_fortress_%28by_Pudelek%29.jpg",
+        "attribution": "",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Imagine_aerian%C4%83_a_Cet%C4%83%C8%9Bii_de_Scaun_a_Sucevei.jpg/350px-Imagine_aerian%C4%83_a_Cet%C4%83%C8%9Bii_de_Scaun_a_Sucevei.jpg"
+    },
+    {
+        "name": "Arcul de Triumf din Bucuresti",
+        "latitude": 44.466997,
+        "longitude": 26.073508,
+        "wikipedia": "https://ro.wikipedia.org/wiki/Arcul_de_Triumf_din_Bucure%C8%99ti",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/ro/thumb/b/ba/Nicolae_Ionescu_-_Pretzel_vendors_in_uniform_in_front_of_the_Triumph_Arch.jpg/220px-Nicolae_Ionescu_-_Pretzel_vendors_in_uniform_in_front_of_the_Triumph_Arch.jpg",
+        "attribution": "",
+        "photo": "https://www.monumentfor.ro/images/images/46_hero_-arcul-de-triumf.jpg"
+    },
+    {
+        "name": "Palatul Parlamentului",
+        "latitude": 44.4275,
+        "longitude": 26.0875,
+        "wikipedia": "https://ro.wikipedia.org/wiki/Palatul_Parlamentului",
+        "photo_original": "https://media.evz.ro/wp-content/uploads/2021/07/casa-poporului-1024x641.jpg",
+        "attribution": "",
+        "photo": "https://cmero-ott-images-avod.ssl.cdn.cra.cz/r991x558n/q80/07011432-a802-4a3d-980c-f021b84a09e7?default=a86c171d-0805-45d9-bc9b-f060f2491088"
+    },
+    {
+        "name": "Alcatraz Island",
+        "latitude": 37.827295,
+        "longitude": -122.422259,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alcatraz_Island",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alcatraz-Pier39.JPG",
+        "attribution": "Abrahami [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FAlcatraz-Pier39.JPG?1548084213733"
+    },
+    {
+        "name": "the Empire State Building",
+        "latitude": 40.748440,
+        "longitude": -73.985664,
+        "wikipedia": "https://en.wikipedia.org/wiki/Empire_State_Building",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Empire_State_Building-_Day_into_Night_%2821637448828%29.jpg",
+        "attribution": "John Cunniff from New York, NY, USA [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FEmpire_State_Building-_Day_into_Night_(21637448828).jpg?1548084212158"
+    },
+    {
+        "name": "the Grand Ole Opry",
+        "latitude": 34.308769,
+        "longitude": -88.805717,
+        "wikipedia": "https://en.wikipedia.org/wiki/Grand_Ole_Opry",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Grand_Ole_Opry_House_%28entrance_sign%29.jpg",
+        "attribution": "Abbie Myers [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FGrand_Ole_Opry_House_(entrance_sign).jpg?1548084212765"
+    },

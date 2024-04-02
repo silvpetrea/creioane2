@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Landmark Distance Game</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <div class="content">
+      <header class="header">
+        <p class="header__query">Ghiceste de cate creioane intr-o linie dreapta este nevoie sa ajungi de aici pana acolo.</p>
+      </header>
+      <main class="options">
+        <div class="option option1">
+        </div>
+        <div class="separator">
+          <p class="separator__pencil">✏️<br>to</p>
+        </div>
+        <div class="option option2">
+        </div>
+      </main>
+      <footer class="footer">
+        <form class="form">
+          <label class="form__text-label"><input type="text" class="form__text-input" /> pencils</label>
+          <input type="submit" class="form__submit" value="Check your guess!" onclick="return testGuess();" />
+        </form>
+      </footer>
+    </div>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body>
+</html>
